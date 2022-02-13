@@ -60,11 +60,6 @@ class Rich < Formula
       sha256 "1a6266a5738115017bb64a66c59c717e7aa047b3ae49a011ede4abdeffc6536e"
     end
   
-    resource "rich-cli" do
-      url "https://files.pythonhosted.org/packages/be/f3/052a62f2d0d2c27067bef88d26ad8eecba182c7490bc8d48dbc806f402b1/rich-cli-1.5.1.tar.gz"
-      sha256 "53c8087e432b0c9ecda83fac6c0173b0cb9995e2cfced8c3c17ce646b86a17a3"
-    end
-  
     resource "rich-rst" do
       url "https://files.pythonhosted.org/packages/29/0a/600b7f20120bcb27fcbf74298777240201733c92e806d53ce210844321eb/rich-rst-1.1.5.tar.gz"
       sha256 "b0a9c0a0ae98a278b4e52ae07b4af56c0da3c3bbfa97be3c9a4b9fe28b3b7a89"
